@@ -15,7 +15,7 @@ Timing Control
 Supports precise time-based delays for tasks.
 Optimized Context Switching
 
-Achieves a context switch time of 66 microseconds, minimizing latency and optimizing interrupt handling.
+Achieves a context switch time of 42 microseconds, minimizing latency and optimizing interrupt handling.
 Power Efficiency
 
 Automatically enters sleep mode when the system is idle, enhancing energy efficiency.
